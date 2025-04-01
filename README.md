@@ -43,13 +43,6 @@ graph LR
     D --> E[Prediction Engine]
 ```
 
-## 💻 Requirements
-
-### Hardware Requirements
-- 🖥️ NVIDIA GPU with 8GB+ VRAM (Tesla T4 or better recommended)
-- 💾 16GB+ System RAM
-- 📊 50GB+ Storage Space
-
 ### Software Requirements
 ```python
 transformers>=4.37.0
@@ -186,22 +179,10 @@ predictions = predictor.predict("path/to/upcoming.csv")
 - [ ] Mobile app development
 - [ ] Blockchain integration for prediction verification
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
-
-For questions and feedback:
-- 📧 Email: [contact@example.com](mailto:contact@example.com)
-- 🌐 Website: [www.example.com](http://www.example.com)
-- 🐦 Twitter: [@example](https://twitter.com/example)
-
----
 
 <div align="center">
 
